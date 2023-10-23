@@ -33,4 +33,4 @@ ___
 ![Image6](no_password.png)
 
 ### Part C
-Something I learned about in week 3 is the .ssh command. I find it convenient how you can log in to your remote account without a password after runnign mkdir .ssh, logging out of remote account and running the scp command with a public key.
+Something I learned about in week 3 is the .ssh command. I find it convenient how you can log in to your remote account without a password after running mkdir .ssh, logging out of remote account and running the scp command.
