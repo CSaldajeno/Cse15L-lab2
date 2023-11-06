@@ -17,7 +17,7 @@ ___
 #### add message screenshot 2
 ![Image3](message2.png)
 * The handlerRequest in Handler class is called.
-* The relevant arguement to the handlerRequest method is the`URI` object `url`, while the relavant fields are `message` and `num` of the Handler class. `message` has the value `3. I hope pt. 2 of "the Glory" is good`, since the new message "I hope pt. 2 of "the Glory" is good" was added, and `num` would have a value of 3, since it is the 3nd message and therefore incremated to 3.
+* The relevant arguement to the handlerRequest method is the`URI` object `url`, while the relavant fields are `message` and `num` of the Handler class. `message` has the value `3. I hope pt. 2 of "the Glory" is good`, since the new message "I hope pt. 2 of "the Glory" is good" was added, and `num` would have a value of 3, since it is the 3rd message and therefore incremated to 3.
 * The  `message` and `nums` fields both change whenever a new string is added. The value "I hope pt. 2 of "the Glory" is good" is added to the existing letters field and is printed after the previous update ('i love food') and nums is incremated by 1 after every new message.
 
 ### Part B
